@@ -1,0 +1,15 @@
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\obj\Debug\net6.0\Cartao.csproj.AssemblyReference.cache
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\obj\Debug\net6.0\Cartao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\obj\Debug\net6.0\Cartao.AssemblyInfoInputs.cache
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\obj\Debug\net6.0\Cartao.AssemblyInfo.cs
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\obj\Debug\net6.0\Cartao.csproj.CoreCompileInputs.cache
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\bin\Debug\net6.0\Cartao.exe
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\bin\Debug\net6.0\Cartao.deps.json
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\bin\Debug\net6.0\Cartao.runtimeconfig.json
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\bin\Debug\net6.0\Cartao.dll
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\bin\Debug\net6.0\Cartao.pdb
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\obj\Debug\net6.0\Cartao.dll
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\obj\Debug\net6.0\refint\Cartao.dll
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\obj\Debug\net6.0\Cartao.pdb
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\obj\Debug\net6.0\Cartao.genruntimeconfig.cache
+C:\Users\luanl\source\repos\ConsoleApp1\Cartao\obj\Debug\net6.0\ref\Cartao.dll
